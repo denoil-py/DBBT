@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: CRLFsuite
+Version: 2.5.2
+Home-page: https://github.com/Nefcore/CRLFsuite
+Author: HS Devansh Raghav
+License: MIT
+Keywords: CRLFsuite,Bug Bounty,pentesting,security,CRLF Injection
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Security
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+License-File: LICENSE
+Requires-Dist: colorama
+Requires-Dist: requests

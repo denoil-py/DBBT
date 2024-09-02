@@ -1,0 +1,2 @@
+[console_scripts]
+crlfsuite = crlfsuite.__main__:main
